@@ -1,2 +1,3 @@
 # hello-world
-sample project
+
+Theo here. I like javascript, python, java, html and css programming languages.
