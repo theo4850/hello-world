@@ -1,5 +1,5 @@
 # hello-world
 
-Theo here. I like javascript, python, java, html and css programming languages.
+Theo here. I mostly prefer c++ programming language but i also like html and css.
 
 
